@@ -165,7 +165,7 @@ img {
 .btn-custom {
      margin-top: 20px;
      background-color: transparent !important;
-     border: 2px solid #ddd;
+     border: 2px solid #ffffff;
      padding: 12px 40px;
      font-size: 16px;
 }
@@ -224,7 +224,7 @@ button {
 .loader_bg {
      position: fixed;
      z-index: 9999999;
-     background: #fff;
+     background: #bdab98;
      width: 100%;
      height: 100%;
 }
@@ -363,7 +363,7 @@ ul.infomaco li a {
      line-height: 15px;
      font-weight: bold;
      text-transform: uppercase;
-     background-color: #ffebcd;
+     background-color: #bdab98;
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
@@ -390,7 +390,7 @@ ul.infomaco li a {
 /** banner section **/
 
 .full_bg {
-     background-image: linear-gradient(to right, #ffebcd 67%, #965b45 33%);
+     background-image: linear-gradient(to right, #e9cb9d);
      border: #fff solid 20px;
      border-top: inherit;
      border-right: inherit;
@@ -467,7 +467,7 @@ ul.infomaco li a {
 }
 
 .coff_img figure img {
-     filter: drop-shadow(0px 0px 41px #fff3);
+     filter: drop-shadow(0px 0px 41px rgba(255, 255, 255, 0.2));
 }
 
 .relative {
@@ -511,7 +511,7 @@ ul.infomaco li a {
 #carouselExampleIndicators .carousel-control-next:hover,
 #carouselExampleIndicators .carousel-control-prev:focus,
 #carouselExampleIndicators .carousel-control-prev:hover {
-     background-color: #965b45;
+     background-color: #89666690;
      color: #fff;
 }
 
@@ -522,7 +522,7 @@ ul.infomaco li a {
 /** about section **/
 
 .about {
-     background: #ffebcd;
+     background: #ffffff;
      padding-bottom: 90px;
      border: #fff solid 20px;
      border-top: inherit !important;
@@ -569,7 +569,7 @@ ul.infomaco li a {
 /** service **/
 
 .service {
-     background: #ffebcd;
+     background: #ffffff;
      border-left: #fff solid 20px;
      padding-bottom: 98px;
      padding-top: 80px;
@@ -621,7 +621,7 @@ ul.infomaco li a {
 }
 
 .owl-item.active.center .ser_img {
-     background: #965b45;
+     background: #ffffff;
 }
 
 .owl-item.active {
@@ -664,7 +664,7 @@ ul.infomaco li a {
 /** section blue_bg **/
 
 .blue_bg {
-     background: #ffebcd;
+     background: #ffffff;
      padding-top: 75px;
      padding-bottom: 80px;
      border: #fff solid 20px;
@@ -677,7 +677,7 @@ ul.infomaco li a {
 
 .contact {
      padding-right: 70px;
-     border-right: #965b45 solid 1px;
+     border-right: #bdab98 solid 1px;
 }
 
 .main_form {
@@ -699,7 +699,7 @@ ul.infomaco li a {
 .main_form .textarea {
      margin-bottom: 33px;
      width: 100%;
-     background: #fff;
+     background: #ffffff;
      color: #626262;
      font-size: 17px;
      font-weight: normal;
@@ -711,7 +711,7 @@ ul.infomaco li a {
 .main_form .send_btn {
      font-size: 17px;
      transition: ease-in all 0.5s;
-     background-color: #965b45;
+     background-color: #bdab98;
      text-transform: uppercase;
      color: #fff;
      max-width: 236px;
@@ -728,7 +728,7 @@ ul.infomaco li a {
 .main_form .send_btn:hover {
      background-color: #fff;
      transition: ease-in all 0.5s;
-     color: #965b45;
+     color: #bdab98;
 }
 
 #request *::placeholder {
@@ -751,7 +751,7 @@ ul.infomaco li a {
 }
 
 .testimonial_box p {
-     background: #965b45;
+     background: #6f4131;
      padding: 120px 40px;
      color: #efe9e9;
      font-size: 17px;
@@ -866,7 +866,7 @@ ul.infomaco li a {
 
 .footer {
      padding-top: 220px;
-     background: #ffebcd;
+     background:#ffffff;
      border: #fff solid 20px;
      border-right: 0 !important;
      position: relative;
@@ -928,7 +928,7 @@ ul.infomaco li a {
      font-size: 25px;
      transition: ease-in all 0.5s;
      background-color: transparent;
-     color: #965b45;
+     color: #6f4131;
      display: block;
      font-weight: bold;
      float: right;
@@ -1048,7 +1048,7 @@ ul.conta li a {
 
 .copyright p {
      font-family: 'Open Sans', sans-serif;
-     color: #686784;
+     color: #bdbdc7;
      font-size: 18px;
      line-height: 22px;
      text-align: center;
@@ -1093,7 +1093,7 @@ ul.conta li a {
 /** blog **/
 
 .blog {
-     background: #ffebcd;
+     background: #ffffff;
      padding-top: 75px;
      padding-bottom: 80px;
      border: #fff solid 20px;
@@ -1165,20 +1165,20 @@ ul.conta li a {
 }
 
 .comment a:hover {
-     color: #ffebcd;
+     color: #000000;
 }
 
 .blog_text p {
      margin-top: 15px;
      padding-top: 15px;
-     border-top: #02306f solid 1px;
+     border-top: #ffffff solid 1px;
 }
 
 .date {
      padding: 16px 17px;
      position: absolute;
      bottom: 0px;
-     background:  #ffebcd;
+     background:  #ffffff;
      left: 0;
      right: 0;
      width: 203px;
@@ -1189,7 +1189,7 @@ ul.conta li a {
 }
 
 .date h3 {
-     color: #fff;
+     color: #000000;
      font-size: 19px;
      font-weight: 500;
      text-transform: uppercase;
