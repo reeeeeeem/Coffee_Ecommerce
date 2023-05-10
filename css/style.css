@@ -28,7 +28,7 @@
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
 * {
-     box-sizing: border-box !important;
+     box-sizing:  border-box !important;
 }
 
 .container {
@@ -41,8 +41,8 @@ html {
 
 body {
      color: #666666;
-     font-size: 14px;
-     font-family: 'Poppins', sans-serif;
+     font-size: 12px;
+     font-family: FontsFree-Net ;
      line-height: 1.80857;
      font-weight: normal;
 }
@@ -224,7 +224,7 @@ button {
 .loader_bg {
      position: fixed;
      z-index: 9999999;
-     background: #bdab98;
+     background: #ffffff;
      width: 100%;
      height: 100%;
 }
@@ -245,7 +245,7 @@ button {
 }
 
 .titlepage {
-     padding-bottom: 40px;
+     padding-bottom: ;
 }
 
 .titlepage h2 {
@@ -266,7 +266,7 @@ button {
 
 .read_more {
      font-size: 17px;
-     background-color: #965b45;
+     background-color: #887e7e;
      color: #fff;
      line-height: 64px;
      width: 100%;
@@ -363,19 +363,19 @@ ul.infomaco li a {
      line-height: 15px;
      font-weight: bold;
      text-transform: uppercase;
-     background-color: #bdab98;
+     background-color: #ffffff;
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     background: #6f4131;
+     background: #ffffff;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     background: #965b45;
+     background: #ffffff;
      
 }
 
@@ -390,8 +390,10 @@ ul.infomaco li a {
 /** banner section **/
 
 .full_bg {
-     background-image: linear-gradient(to right, #e9cb9d);
-     border: #fff solid 20px;
+     background-color: #D0B49F
+
+     ;
+     border: ;
      border-top: inherit;
      border-right: inherit;
      padding-bottom: 140px;
@@ -569,8 +571,8 @@ ul.infomaco li a {
 /** service **/
 
 .service {
-     background: #ffffff;
-     border-left: #fff solid 20px;
+     background: #D0B49F;
+     border-left: ;
      padding-bottom: 98px;
      padding-top: 80px;
 }
@@ -751,7 +753,7 @@ ul.infomaco li a {
 }
 
 .testimonial_box p {
-     background: #6f4131;
+     background: #D0B49F;
      padding: 120px 40px;
      color: #efe9e9;
      font-size: 17px;
@@ -866,8 +868,8 @@ ul.infomaco li a {
 
 .footer {
      padding-top: 220px;
-     background:#ffffff;
-     border: #fff solid 20px;
+     background:#D0B49F;
+     
      border-right: 0 !important;
      position: relative;
 }
@@ -1203,4 +1205,8 @@ ul.conta li a {
 /* new alterations */
 .text_align_left {
      color:#000000;
+}
+
+.recomendations {
+     
 }
